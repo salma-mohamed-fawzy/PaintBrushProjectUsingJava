@@ -1,0 +1,8 @@
+paintproject.FilledWhiteCircle
+paintproject.Triangle
+paintproject.Rect
+paintproject.Circle
+paintproject.FreeHand
+paintproject.Shape
+paintproject.Line
+paintproject.Oval
